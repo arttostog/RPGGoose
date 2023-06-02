@@ -1,0 +1,4 @@
+Disable_Monstress=False
+Disable_Sounds=False
+Text_Brush=#4AF626
+Fone_Brush=#000000
