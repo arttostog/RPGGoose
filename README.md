@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/images/icon.png">
+<img src="/Images/icon.png">
 
 # RPGGoose mod for [Samperson's Desktop Goose](https://samperson.itch.io/desktop-goose)
 
